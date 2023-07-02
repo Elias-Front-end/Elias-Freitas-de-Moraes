@@ -21,7 +21,7 @@
  
   <a href = "mailto:eliasmoraesdp@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
-  <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/https://www.linkedin.com/in/elias-freitas-de-moraes-ba5a40163/#:~:text=Tente%20Premium%20livre.-,Elias%20Freitas%20de%20Moraes,-Front%20end%20%7C%20t%C3%A9cnico" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/https://www.linkedin.com/elias-freitas-de-moraes-" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/Elias-Front-End de Moraes/Elias Freitas de Moraes/blob/output/github-contribution-grid-snake.svg)
 
