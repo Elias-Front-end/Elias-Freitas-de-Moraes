@@ -4,7 +4,7 @@
 
 ![Elias GitHub stats](https://github-readme-stats.vercel.app/api?username=elias-front-end&show_icons=true&theme=dracula&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elias-front-end)](https://github.com/elias-front-enda/github-readme-stats)
 
 ## Tecnologias que eu uso no meu dia
 
