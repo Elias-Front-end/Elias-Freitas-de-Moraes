@@ -1,6 +1,6 @@
 ## Bem-vindo(a) ao perfil do Elias Freitas de Moraes
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sujeitoprogramador)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/)
 
 ![Elias GitHub stats](https://github-readme-stats.vercel.app/api?username=elias-front-end&show_icons=true&theme=dracula&count_private=true)
 
